@@ -64,13 +64,13 @@ Technologies and tools I use to build, develop, and maintain applications.
     src="https://github-stats-extended.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
     width="49%"
-    height="195"
+    height="200"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
     width="49%"
-    height="195"
+    height="200"
   />
 </p>
 
