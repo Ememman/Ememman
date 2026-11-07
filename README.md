@@ -6,7 +6,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=soft&color=0:120704,30:351006,60:8B2500,85:CC460D,100:FF7133&height=270&section=header&text=JAMES%20MENDOZA&fontSize=55&fontColor=FFF1E8&fontAlign=50&fontAlignY=40&desc=FULL-STACK%20DEVELOPER&descSize=19&descAlign=50&descAlignY=62&animation=fadeIn"
     width="100%"
-    alt="James Mendoza | Full-Stack Developer"
+    alt="James Mendoza | Front-End Developer"
   />
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF7133&center=true&vCenter=true&width=850&height=55&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+Modern+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF7133&center=true&vCenter=true&width=850&height=55&lines=Front-End+Developer;Next.js+%7C+React+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+Modern+Web+Applications"
     alt="My development expertise"
   />
 </p>
