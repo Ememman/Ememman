@@ -30,13 +30,13 @@
 
 <img src="divider.svg" width="100%" height="6" alt="">
 
-## 👋 About Me
+## <img src="wave.svg" width="28" align="top" alt=""> About Me
 
 <table width="100%">
 <tr>
 <td width="55%" valign="middle">
 
-<h3><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/hand-point-right.svg" width="30" align="top" alt="">&nbsp;Hi, I'm James — <i>Digital Craftsman</i></h3>
+<h3><img src="assets/wave.svg" width="30" align="top" alt="">&nbsp;Hi, I'm James — <i>Digital Craftsman</i></h3>
 
 <p>
 I build modern, user-focused web applications with <b>React, Next.js, and TypeScript</b>,
