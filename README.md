@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="assets/ban.png" width="100%" alt="James Mendoza Banner">
+<img src="ban.png" width="100%" alt="James Mendoza Banner">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7133&center=true&vCenter=true&width=850&height=55&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications" alt="Typing Animation">
 
@@ -74,7 +74,7 @@ I build modern, user-focused web applications with **React, Next.js, and TypeScr
 </td>
 <td width="25%" align="center" valign="middle">
 
-<img src="assets/cat.svg" width="190" alt="Animated cat">
+<img src="cat.svg" width="190" alt="Animated cat">
 
 <br>
 
@@ -84,7 +84,7 @@ I build modern, user-focused web applications with **React, Next.js, and TypeScr
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" height="6" alt=""></div>
+<div align="center"><img src="divider.svg" width="100%" height="6" alt=""></div>
 
 ## 📊 GitHub Analytics
 
@@ -101,7 +101,7 @@ I build modern, user-focused web applications with **React, Next.js, and TypeScr
 <tr>
 <td width="25%" align="center" valign="middle">
 
-<img src="assets/cat-laptop.svg" width="190" alt="Cat typing on a laptop">
+<img src="cat-laptop.svg" width="190" alt="Cat typing on a laptop">
 
 <br>
 
