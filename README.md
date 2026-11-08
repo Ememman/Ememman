@@ -36,7 +36,7 @@
 <tr>
 <td width="55%" valign="middle">
 
-<h3><img src="assets/wave.svg" width="30" align="top" alt="">&nbsp;Hi, I'm James — <i>Digital Craftsman</i></h3>
+<h3><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/hand-point-right.svg" width="30" align="top" alt="">&nbsp;Hi, I'm James — <i>Digital Craftsman</i></h3>
 
 <p>
 I build modern, user-focused web applications with <b>React, Next.js, and TypeScript</b>,
@@ -44,11 +44,11 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </p>
 
 <table width="100%">
-<tr><td width="34%">💻 <b>Focus</b></td><td>Next.js · React · TypeScript · Tailwind CSS</td></tr>
-<tr><td>⚙️ <b>Backend</b></td><td>Node.js · Express · MongoDB · MySQL · PHP · Laravel</td></tr>
-<tr><td>🧩 <b>Values</b></td><td>Scalable architecture, clean code, thoughtful UX</td></tr>
-<tr><td>🌱 <b>Learning</b></td><td>Modern tooling, patterns, and best practices</td></tr>
-<tr><td>🚀 <b>Looking for</b></td><td>Projects where maintainability and performance matter</td></tr>
+<tr><td width="34%"><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/code.svg" width="16" align="top" alt=""> <b>Focus</b></td><td>Next.js · React · TypeScript · Tailwind CSS</td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/gear.svg" width="16" align="top" alt=""> <b>Backend</b></td><td>Node.js · Express · MongoDB · MySQL · PHP · Laravel</td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/puzzle.svg" width="16" align="top" alt=""> <b>Values</b></td><td>Scalable architecture, clean code, thoughtful UX</td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/graduation-cap.svg" width="16" align="top" alt=""> <b>Learning</b></td><td>Modern tooling, patterns, and best practices</td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/gravity-ui/icons@main/assets/icons/rocket.svg" width="16" align="top" alt=""> <b>Looking for</b></td><td>Projects where maintainability and performance matter</td></tr>
 </table>
 
 </td>
@@ -76,7 +76,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </td>
 <td width="25%" align="center" valign="top">
 <b>🧰 Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=4" width="100%" alt="Developer Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&perline=4" width="100%" alt="Developer Tools">
 </td>
 <td width="25%" align="center" valign="middle">
 <img src="cat-laptop.svg" width="100%" alt="Animated cat">
@@ -133,13 +133,12 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 <a href="https://github.com/Ememman">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<img src="https://img.shields.io/badge/Open_to-Opportunities-27C93F?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to opportunities">
 
 <br><br>
 
 <i>"Building meaningful applications, learning continuously, and improving one commit at a time."</i> 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+visiting+my+profile!;Keep+building.+Keep+learning.+%F0%9F%9A%80" alt="Footer Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=Code+is+like+life%3A+refactor%2C+learn%2C+grow.;Every+bug+is+a+lesson+in+disguise.;Ship+with+purpose.+Live+with+passion.;Keep+building.+Keep+learning.+%F0%9F%9A%80" alt="Footer Animation">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" alt="">
 
