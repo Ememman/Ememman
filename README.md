@@ -3,8 +3,8 @@
 <!-- ================================= -->
 
 <div align="center">
-  <!-- Added max-height to fix the banner being too tall -->
-  <img src="ban.png" width="100%" style="max-height: 100px; object-fit: cover;" alt="James Mendoza Banner" />
+  <!-- Adjusted max-height to 160px so it's not too thin, but not massive -->
+  <img src="ban.png" width="100%" style="max-height: 160px; object-fit: cover; border-radius: 8px;" alt="James Mendoza Banner" />
 </div>
 
 <br>
@@ -41,8 +41,8 @@
       </ul>
     </td>
     <td valign="top" width="30%" align="center">
-      <!-- TYPING CAT IS BACK -->
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Typing Cat" />
+      <!-- Reduced cat width to 120, added hover scale effect -->
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Typing Cat" />
     </td>
   </tr>
 </table>
@@ -55,7 +55,6 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<!-- IMPORTANT: Do not leave blank lines inside this table, or GitHub will break it -->
 <table>
   <tr>
     <td valign="top" width="75%">
@@ -66,9 +65,9 @@
       <b>Database & Tools</b><br>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,npm" alt="Database and Tools" />
     </td>
-    <td valign="top" width="25%" align="center">
-      <!-- LUFFY GOES ON THE RIGHT -->
-      <img src="luffy.png" width="150" alt="Luffy" />
+    <td valign="middle" width="25%" align="center">
+      <!-- Centered Luffy, adjusted width, added hover float effect -->
+      <img src="luffy.png" width="140" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" alt="Luffy" />
     </td>
   </tr>
 </table>
@@ -81,12 +80,11 @@
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
-<!-- IMPORTANT: Do not leave blank lines inside this table -->
 <table>
   <tr>
     <td valign="middle" width="20%" align="center">
-      <!-- PICCOLO GOES ON THE LEFT -->
-      <img src="piccolo.png" width="120" alt="Piccolo" />
+      <!-- Adjusted Piccolo width, added hover float effect -->
+      <img src="piccolo.png" width="110" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" alt="Piccolo" />
     </td>
     <td valign="middle" width="80%" align="center">
       <img src="https://github-stats-extended.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" width="48%" />
