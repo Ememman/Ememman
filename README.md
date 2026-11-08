@@ -28,7 +28,7 @@
 
 </div>
 
-<img src="divider.svg" width="100%" height="6" alt="">
+<img src="div.svg" width="100%" height="6" alt="">
 
 ## <img src="wave.svg" width="28" align="top" alt=""> About Me
 
@@ -60,7 +60,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="divider.svg" width="100%" height="6" alt="">
+<img src="div.svg" width="100%" height="6" alt="">
 
 ## 🛠️ Tech Stack
 
@@ -85,7 +85,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="divider.svg" width="100%" height="6" alt="">
+<img src="div.svg" width="100%" height="6" alt="">
 
 ## 📊 GitHub Analytics
 
@@ -100,7 +100,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="divider.svg" width="100%" height="6" alt="">
+<img src="div.svg" width="100%" height="6" alt="">
 
 ### 🔥 Contribution Streak
 
@@ -116,7 +116,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="divider.svg" width="100%" height="6" alt="">
+<img src="div.svg" width="100%" height="6" alt="">
 
 ### 🐍 Contribution Activity
 
@@ -124,7 +124,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 <img src="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 </div>
 
-<img src="divider.svg" width="100%" height="6" alt="">
+<img src="div.svg" width="100%" height="6" alt="">
 
 ## 🤝 Let's Connect
 
