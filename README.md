@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Added max-height to fix the banner being too tall -->
-  <img src="banner.png" width="50%" style="max-height: 100px; object-fit: cover;" alt="James Mendoza Banner" />
+  <img src="ban.png" width="100%" style="max-height: 100px; object-fit: cover;" alt="James Mendoza Banner" />
 </div>
 
 <br>
