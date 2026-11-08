@@ -1,407 +1,185 @@
-<!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
-<!-- ========================================================= -->
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-  <img
-    src="ban.png"
-    width="100%"
-    alt="James Mendoza Banner"
-  />
+<img src="ban.png" width="100%" alt="James Mendoza Banner">
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7133&center=true&vCenter=true&width=850&height=55&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications" alt="Typing Animation">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7133&center=true&vCenter=true&width=850&height=60&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications"
-    alt="Typing animation"
-  />
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
 
-  <br>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Ememman?label=FOLLOWERS&style=flat-square&color=FF7133&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Ememman?label=STARS&style=flat-square&color=FF7133&logo=github" alt="Stars">
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=for-the-badge" alt="Profile Views">
-
-  <br><br>
-
-  <a href="https://github.com/Ememman">
-    <img src="https://img.shields.io/github/followers/Ememman?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers">
-  </a>
-
-  <a href="https://github.com/Ememman?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-FF7133?style=for-the-badge&logo=github" alt="Repositories">
-  </a>
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                      ABOUT ME                              -->
-<!-- ========================================================= -->
+## 👋 About Me
 
-<h2>👋 I'm James!</h2>
+<table>
+<tr>
+<td width="72%" valign="top">
 
-<table width="100%">
-  <tr>
-    <td width="75%" valign="top">
+### Hi, I'm James — *Digital Craftsman*
 
-### 💻 Digital Craftsman
+I build modern, user-focused web applications with **React, Next.js, and TypeScript**, backed by experience in the **MERN stack** and **PHP/Laravel**.
 
-<i>Front-End Developer • MERN Stack • PHP/Laravel</i>
+| | |
+|---|---|
+| 💻 **Focus** | Next.js · React · TypeScript · Tailwind CSS |
+| ⚙️ **Backend** | Node.js · Express · MongoDB · MySQL · PHP · Laravel |
+| 🧩 **Values** | Scalable architecture, clean code, thoughtful UX |
+| 🌱 **Learning** | Modern tooling, patterns, and best practices |
+| 🚀 **Looking for** | Projects where maintainability and performance matter |
 
-I build modern, user-focused web applications with **React, Next.js, and TypeScript**, backed by experience with the **MERN stack and PHP/Laravel**.
+</td>
+<td width="28%" align="center" valign="middle">
 
-- 💻 Currently focused on **Next.js, React, TypeScript, and Tailwind CSS**
-- ⚙️ Experienced with **Node.js, Express, MongoDB, MySQL, PHP, and Laravel**
-- 🧩 Interested in **scalable architecture, clean code, and thoughtful UX**
-- 🌱 Continuously learning **modern tooling, patterns, and best practices**
-- 🚀 Looking to contribute to projects where **maintainability and performance matter**
-
-    </td>
-
-    <td width="25%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Coding Cat">
+<img src="assets/luffy.png" width="220" alt="Luffy">
 
 <br>
 
-<i>Always learning.</i>
+**Build • Learn • Improve**
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     WHAT I DO                              -->
-<!-- ========================================================= -->
+## 🛠️ Tech Stack
 
-<h2>🚀 What I Do</h2>
+<table>
+<tr>
+<td width="78%" valign="top">
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
+**🎨 Frontend**
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies">
 
-React  
-Next.js  
-TypeScript  
-Tailwind CSS  
-Responsive UI
+**⚙️ Backend**
 
-    </td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Technologies">
 
-    <td width="33%" align="center">
+**🗄️ Database & Tools**
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,npm" alt="Database and Tools">
 
-Node.js  
-Express  
-PHP  
-Laravel  
-REST APIs
+</td>
+<td width="22%" align="center" valign="middle">
 
-    </td>
-
-    <td width="33%" align="center">
-
-### 🗄️ Data & Tools
-
-MongoDB  
-MySQL  
-Git  
-GitHub  
-Postman
-
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                    TECH STACK                              -->
-<!-- ========================================================= -->
-
-<h2>🛠️ Tech Stack</h2>
-
-<table width="100%">
-  <tr>
-
-    <!-- TECHNOLOGIES -->
-    <td width="78%" valign="top">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="55" alt="Frontend Technologies">
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" height="55" alt="Backend Technologies">
-
-<br><br>
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,npm" height="55" alt="Database and Tools">
-
-    </td>
-
-    <!-- LUFFY -->
-    <td width="22%" align="center" valign="middle">
-
-<img src="luffy.png" width="180" alt="Luffy">
+<img src="piccolo.png" width="200" alt="Piccolo">
 
 <br>
 
-<b>Building. Learning. Improving.</b>
+**Stay Focused**
 
-    </td>
-
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ========================================================= -->
-<!--                  CURRENT FOCUS                             -->
-<!-- ========================================================= -->
+## 📊 GitHub Analytics
 
-<h2>🌱 Currently Exploring</h2>
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Statistics">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages">
 
-🟦  
-<b>Next.js</b>
+</div>
 
-    </td>
+### 🔥 Contribution Streak
 
-    <td width="25%" align="center">
+<div align="center">
 
-⚛️  
-<b>React</b>
+<img src="https://streak-stats.demolab.com?user=Ememman&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak">
 
-    </td>
+</div>
 
-    <td width="25%" align="center">
+### 🐍 Contribution Activity
 
-🔷  
-<b>TypeScript</b>
+<div align="center">
 
-    </td>
+<img src="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake-dark.svg" width="95%" alt="GitHub Contribution Snake">
 
-    <td width="25%" align="center">
-
-🎨  
-<b>Tailwind CSS</b>
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>Learning modern tools and turning them into useful products.</i>
-</p>
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                          -->
-<!-- ========================================================= -->
+## 🚀 Featured Projects
 
-<h2>📊 GitHub Analytics</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<table width="100%">
-  <tr>
+### 🧠 Flash Cards
 
-    <!-- PICCOLO -->
-    <td width="20%" align="center" valign="middle">
+A modern flash-card learning app focused on interactive learning, clean UI, and usability.
 
-<img src="piccolo.png" width="145" alt="Piccolo">
-
-    </td>
-
-    <!-- STATS -->
-    <td width="80%" align="center" valign="middle">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  width="48%"
-  alt="James's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true"
-  width="48%"
-  alt="Most Used Languages"
-/>
-
-    </td>
-
-  </tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION STREAK                        -->
-<!-- ========================================================= -->
-
-<h2>🔥 Contribution Streak</h2>
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Ememman&theme=tokyonight&hide_border=true"
-  width="75%"
-  alt="GitHub Contribution Streak"
-/>
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION SNAKE                         -->
-<!-- ========================================================= -->
-
-<h2>🐍 Contribution Activity</h2>
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake-dark.svg"
-  width="95%"
-  alt="GitHub Contribution Snake"
-/>
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                    GITHUB TROPHIES                         -->
-<!-- ========================================================= -->
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Ememman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-  width="95%"
-  alt="GitHub Trophies"
-/>
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                   FEATURED PROJECTS                         -->
-<!-- ========================================================= -->
-
-<h2>🚀 Featured Projects</h2>
-
-<table width="100%">
-  <tr>
-
-    <td width="50%" valign="top">
-
-### 💳 Flash Cards
-
-A modern flash-card learning application focused on clean UI, usability, and interactive learning.
-
-**Tech:** React • TypeScript • Tailwind CSS
+`React` · `TypeScript` · `Tailwind CSS`
 
 <a href="https://github.com/Ememman/Flash-Cards">
-  <img src="https://img.shields.io/badge/View%20Project-FF7133?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+<img src="https://img.shields.io/badge/View_Project-FF7133?style=for-the-badge&logo=github&logoColor=white" alt="View Flash Cards Project">
 </a>
 
-    </td>
+</td>
+<td width="50%" valign="top">
 
-    <td width="50%" valign="top">
+### 💻 More Projects
 
-### 🌐 More Projects
+Explore my repositories for applications, experiments, and projects built while continuously improving my skills.
 
-Explore my repositories for experiments, applications, and projects built while learning and improving my development skills.
+`Next.js` · `MERN` · `Laravel`
 
 <a href="https://github.com/Ememman?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
+<img src="https://img.shields.io/badge/View_Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
 </a>
 
-    </td>
-
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    DEVELOPMENT PHILOSOPHY                   -->
-<!-- ========================================================= -->
+## 🏆 GitHub Achievements
 
-<h2>🧠 Development Philosophy</h2>
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ememman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies">
 
-> <b>"Build things that are useful, write code that is maintainable, and keep improving."</b>
-
-<br>
-
-💡 <b>Clean Code</b> • ⚡ <b>Performance</b> • 🎨 <b>UX</b> • 🧩 <b>Maintainability</b>
-
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       CONNECT                              -->
-<!-- ========================================================= -->
+## 🤝 Let's Connect
 
-<h2>🤝 Let's Connect</h2>
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Ememman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-FF7133?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<br><br>
 
-</p>
+*"Building meaningful applications, learning continuously, and improving one commit at a time."* 🚀
 
-<p align="center">
-  <i>Open to collaboration, interesting projects, and opportunities to build useful things together.</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+visiting+my+profile!;Keep+building.+Keep+learning.+%F0%9F%9A%80" alt="Footer Animation">
 
----
-
-<!-- ========================================================= -->
-<!--                         FOOTER                             -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Building+meaningful+applications...;Learning+continuously...;Improving+one+commit+at+a+time+%F0%9F%9A%80"
-  alt="Footer animation"
-/>
-
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-</p>
+</div>
