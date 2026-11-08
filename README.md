@@ -28,7 +28,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="">
+<img src="divider.svg" width="100%" height="6" alt="">
 
 ## 👋 About Me
 
@@ -60,7 +60,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="">
+<img src="divider.svg" width="100%" height="6" alt="">
 
 ## 🛠️ Tech Stack
 
@@ -85,7 +85,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="">
+<img src="divider.svg" width="100%" height="6" alt="">
 
 ## 📊 GitHub Analytics
 
@@ -100,7 +100,7 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="">
+<img src="divider.svg" width="100%" height="6" alt="">
 
 ### 🔥 Contribution Streak
 
