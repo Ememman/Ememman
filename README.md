@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:120704,30:351006,60:8B2500,85:CC460D,100:FF7133&height=270&section=header&text=JAMES%20MENDOZA&fontSize=55&fontColor=FFF1E8&fontAlign=50&fontAlignY=40&desc=FRONT-END%20DEVELOPER&descSize=19&descAlign=50&descAlignY=62&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:120704,30:351006,60:8B2500,85:CC460D,100:FF7133&height=150&section=header&text=JAMES%20MENDOZA&fontSize=55&fontColor=FFF1E8&fontAlign=50&fontAlignY=40&desc=FRONT-END%20DEVELOPER&descSize=19&descAlign=50&descAlignY=62&animation=fadeIn"
     width="100%"
     alt="James Mendoza | Front-End Developer"
   />
