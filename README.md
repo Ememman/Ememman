@@ -19,12 +19,30 @@
   <img src="https://img.shields.io/github/stars/Ememman?label=STARS&style=flat-square&color=FF7133&logo=github" alt="Stars">
 </p>
 
-<p>
-  <a href="#-about-me">About</a> •
-  <a href="#️-tech-stack">Tech Stack</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-lets-connect">Connect</a>
-</p>
+<!-- ===================== NAVIGATION ===================== -->
+
+<div align="center">
+
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/ABOUT_ME-171717?style=for-the-badge&logo=readme&logoColor=FF7133" alt="About Me">
+  </a>
+  <a href="#️-tech-stack--tools">
+    <img src="https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133" alt="Tech Stack">
+  </a>
+  <a href="#-github-analytics">
+    <img src="https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="GitHub Analytics">
+  </a>
+  <a href="#-contribution-streak">
+  <img src="https://img.shields.io/badge/STREAK-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Contribution Streak">
+  </a>
+  <a href="#-contribution-activity">
+    <img src="https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge&logo=githubactions&logoColor=FF7133" alt="Contribution Activity">
+  </a>
+  <a href="#-lets-connect">
+    <img src="https://img.shields.io/badge/CONNECT-171717?style=for-the-badge&logo=gmail&logoColor=FF7133" alt="Connect">
+  </a>
+
+</div>
 
 </div>
 
