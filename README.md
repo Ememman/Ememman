@@ -12,29 +12,33 @@
 
 <br>
 
-<p>
+<div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-</p>
+</div>
 
-<p>
+<br>
+
+<div>
   <img src="https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Ememman?label=FOLLOWERS&style=flat-square&color=FF7133&logo=github" alt="Followers">
   <img src="https://img.shields.io/github/stars/Ememman?label=STARS&style=flat-square&color=FF7133&logo=github" alt="Stars">
-</p>
+</div>
 
 <!-- ===================== NAVIGATION ===================== -->
-<p>
-  <a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT_ME-171717?style=for-the-badge&logo=readme&logoColor=FF7133" alt="About Me"></a>
-  <a href="#️-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133" alt="Tech Stack"></a>
-  <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="GitHub Analytics"></a>
-  <a href="#-contribution-streak"><img src="https://img.shields.io/badge/STREAK-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Contribution Streak"></a>
-  <a href="#-contribution-activity"><img src="https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge&logo=githubactions&logoColor=FF7133" alt="Contribution Activity"></a>
+<br>
+
+<div>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT_ME-171717?style=for-the-badge&logo=readme&logoColor=FF7133" alt="About Me"></a>&nbsp;
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133" alt="Tech Stack"></a>&nbsp;
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="GitHub Analytics"></a>&nbsp;
+  <a href="#-contribution-streak"><img src="https://img.shields.io/badge/STREAK-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Contribution Streak"></a>&nbsp;
+  <a href="#-contribution-activity"><img src="https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge&logo=githubactions&logoColor=FF7133" alt="Contribution Activity"></a>&nbsp;
   <a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-171717?style=for-the-badge&logo=gmail&logoColor=FF7133" alt="Connect"></a>
-</p>
+</div>
 
 </div>
 
@@ -51,13 +55,13 @@
 
 I build modern, user-focused web applications with **React, Next.js, and TypeScript**, backed by hands-on experience across the **MERN stack** and **PHP/Laravel**.
 
-| | |
-|---|---|
-| **Focus** | Next.js · React · TypeScript · Tailwind CSS |
-| **Backend** | Node.js · Express · MongoDB · MySQL · PHP · Laravel |
-| **Values** | Scalable architecture, clean code, thoughtful UX |
-| **Learning** | Modern tooling, patterns, and best practices |
-| **Looking for** | Projects where maintainability and performance matter |
+<table>
+<tr><td><b>Focus</b></td><td>Next.js · React · TypeScript · Tailwind CSS</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js · Express · MongoDB · MySQL · PHP · Laravel</td></tr>
+<tr><td><b>Values</b></td><td>Scalable architecture, clean code, thoughtful UX</td></tr>
+<tr><td><b>Learning</b></td><td>Modern tooling, patterns, and best practices</td></tr>
+<tr><td><b>Looking for</b></td><td>Projects where maintainability and performance matter</td></tr>
+</table>
 
 </td>
 <td width="45%" align="center" valign="middle">
