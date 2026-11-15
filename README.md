@@ -26,14 +26,14 @@
   <a href="#-about-me">
     <img src="https://img.shields.io/badge/ABOUT_ME-171717?style=for-the-badge&logo=readme&logoColor=FF7133" alt="About Me">
   </a>
-  <a href="#️-tech-stack">
+  <a href="#️-tech-stack--tools">
     <img src="https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133" alt="Tech Stack">
   </a>
   <a href="#-github-analytics">
     <img src="https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="GitHub Analytics">
   </a>
   <a href="#-contribution-streak">
-    <img src="https://img.shields.io/badge/STREAK-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Contribution Streak">
+  <img src="https://img.shields.io/badge/STREAK-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Contribution Streak">
   </a>
   <a href="#-contribution-activity">
     <img src="https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge&logo=githubactions&logoColor=FF7133" alt="Contribution Activity">
@@ -110,10 +110,10 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" width="100%" alt="GitHub Statistics">
+<img src="https://github-stats-extended.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" width="100%" alt="GitHub Statistics">
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="Most Used Languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="Most Used Languages">
 </td>
 </tr>
 </table>
