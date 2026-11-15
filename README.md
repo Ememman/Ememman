@@ -107,14 +107,13 @@ backed by experience in the <b>MERN stack</b> and <b>PHP/Laravel</b>.
 
 ## 📊 GitHub Analytics
 
-<!-- FIXED: Switched to official github-readme-stats instance with count_private=true -->
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="100%" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ememman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" width="100%" alt="GitHub Statistics">
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememman&layout=compact&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="Most Used Languages">
 </td>
 </tr>
 </table>
