@@ -2,11 +2,11 @@
 
 \<div align="center">
 
-\<img src="ban.png" width="100%" alt="James Mendoza Banner">
+<img src="ban.png" width="100%" alt="James Mendoza Banner">
 
-\<br>
+<br>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7133&center=true&vCenter=true&width=850&height=55&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=2800\&pause=900\&color=FF7133\&center=true\&vCenter=true\&width=850\&height=55\&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications)" alt="Typing Animation">
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF7133&center=true&vCenter=true&width=850&height=55&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=2800\&pause=900\&color=FF7133\&center=true\&vCenter=true\&width=850\&height=55\&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;PHP+%7C+Laravel+Developer;Building+clean%2C+scalable+web+applications)" alt="Typing Animation">
 
 \<br>
 
