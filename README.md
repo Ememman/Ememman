@@ -17,16 +17,16 @@
 <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" alt="Node.js">
 <img src="[https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)" alt="Laravel">
 
-\<br>\<br>
+<br><br>
 
-\<img src="[https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=flat-square](https://komarev.com/ghpvc/?username=Ememman\&label=PROFILE+VIEWS\&color=FF7133\&style=flat-square)" alt="Profile Views">
-\<img src="[https://img.shields.io/github/followers/Ememman?label=FOLLOWERS&style=flat-square&color=FF7133&logo=github](https://img.shields.io/github/followers/Ememman?label=FOLLOWERS\&style=flat-square\&color=FF7133\&logo=github)" alt="Followers">
-\<img src="[https://img.shields.io/github/stars/Ememman?label=STARS&style=flat-square&color=FF7133&logo=github](https://img.shields.io/github/stars/Ememman?label=STARS\&style=flat-square\&color=FF7133\&logo=github)" alt="Stars">
+<img src="[https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=flat-square](https://komarev.com/ghpvc/?username=Ememman\&label=PROFILE+VIEWS\&color=FF7133\&style=flat-square)" alt="Profile Views">
+<img src="[https://img.shields.io/github/followers/Ememman?label=FOLLOWERS&style=flat-square&color=FF7133&logo=github](https://img.shields.io/github/followers/Ememman?label=FOLLOWERS\&style=flat-square\&color=FF7133\&logo=github)" alt="Followers">
+<img src="[https://img.shields.io/github/stars/Ememman?label=STARS&style=flat-square&color=FF7133&logo=github](https://img.shields.io/github/stars/Ememman?label=STARS\&style=flat-square\&color=FF7133\&logo=github)" alt="Stars">
 
-\<br>\<br>
+<br><br>
 
-\<a href="#-about-me">\<img src="[https://img.shields.io/badge/ABOUT-171717?style=for-the-badge&logo=readme&logoColor=FF7133](https://img.shields.io/badge/ABOUT-171717?style=for-the-badge\&logo=readme\&logoColor=FF7133)" alt="About">\</a>
-\<a href="#-tech-stack">\<img src="[https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133](https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge\&logo=codeforces\&logoColor=FF7133)" alt="Tech Stack">\</a>
+<a href="#-about-me">\<img src="[https://img.shields.io/badge/ABOUT-171717?style=for-the-badge&logo=readme&logoColor=FF7133](https://img.shields.io/badge/ABOUT-171717?style=for-the-badge\&logo=readme\&logoColor=FF7133)" alt="About">\</a>
+<a href="#-tech-stack">\<img src="[https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133](https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge\&logo=codeforces\&logoColor=FF7133)" alt="Tech Stack">\</a>
 \<a href="#-github-analytics">\<img src="[https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge&logo=github&logoColor=FF7133](https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge\&logo=github\&logoColor=FF7133)" alt="Analytics">\</a>
 \<a href="#-contribution-activity">\<img src="[https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge&logo=githubactions&logoColor=FF7133](https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge\&logo=githubactions\&logoColor=FF7133)" alt="Activity">\</a>
 \<a href="#-lets-connect">\<img src="[https://img.shields.io/badge/CONNECT-171717?style=for-the-badge&logo=gmail&logoColor=FF7133](https://img.shields.io/badge/CONNECT-171717?style=for-the-badge\&logo=gmail\&logoColor=FF7133)" alt="Connect">\</a>
