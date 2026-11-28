@@ -1,4 +1,6 @@
-👋 Hi, I'm James Mendoza
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        JAMES MENDOZA — README                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -10,18 +12,32 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<a href="https://github.com/Ememman?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ememman?label=FOLLOWERS&style=for-the-badge&color=FF7133&logo=github" alt="Followers">
+</a>
+<a href="https://github.com/Ememman">
+  <img src="https://img.shields.io/github/stars/Ememman?label=STARS&style=for-the-badge&color=FF7133&logo=github" alt="Stars">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=for-the-badge" alt="Profile Views">
+<a href="https://github.com/Ememman?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Repositories">
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ememman&label=PROFILE+VIEWS&color=FF7133&style=flat-square" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/Ememman?label=FOLLOWERS&style=flat-square&color=FF7133&logo=github" alt="Followers">
-<img src="https://img.shields.io/github/stars/Ememman?label=STARS&style=flat-square&color=FF7133&logo=github" alt="Stars">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 
 <br><br>
 
+<!-- Quick Navigation -->
 <a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-171717?style=for-the-badge&logo=readme&logoColor=FF7133" alt="About"></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-171717?style=for-the-badge&logo=codeforces&logoColor=FF7133" alt="Tech Stack"></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Projects"></a>
 <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-171717?style=for-the-badge&logo=github&logoColor=FF7133" alt="Analytics"></a>
 <a href="#-contribution-activity"><img src="https://img.shields.io/badge/ACTIVITY-171717?style=for-the-badge&logo=githubactions&logoColor=FF7133" alt="Activity"></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-171717?style=for-the-badge&logo=gmail&logoColor=FF7133" alt="Connect"></a>
@@ -30,31 +46,27 @@
 
 <img src="div.svg" width="100%" height="6" alt="Section Divider">
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 <table width="100%">
 <tr>
 <td width="58%" valign="middle">
 
-Hi, I'm James — Digital Craftsman.
+### Hi, I'm James — Digital Craftsman 👋
 
-I'm a developer passionate about building modern, responsive, and user-focused web applications.
+I'm a developer passionate about building **modern, responsive, and user-focused** web applications.
 
-I primarily work with React, Next.js, and TypeScript, while also exploring full-stack development through the MERN stack and PHP/Laravel.
+I primarily work with **React, Next.js, and TypeScript**, while also exploring full-stack development through the **MERN stack** and **PHP/Laravel**.
 
 I enjoy turning ideas into functional applications, writing maintainable code, solving problems, and continuously improving my development skills.
 
-What I focus on:
+**What I focus on:**
 
-Building responsive and accessible user interfaces.
-
-Developing scalable full-stack applications.
-
-Creating reliable APIs and backend services.
-
-Designing maintainable database structures.
-
-Learning modern development tools and best practices.
+- 🎯 Building responsive and accessible user interfaces
+- 🏗️ Developing scalable full-stack applications
+- 🔌 Creating reliable APIs and backend services
+- 🗄️ Designing maintainable database structures
+- 📚 Learning modern development tools and best practices
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -67,41 +79,89 @@ Learning modern development tools and best practices.
 
 <img src="div.svg" width="100%" height="6" alt="Section Divider">
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<table width="100%"> <tr> <td width="33%" align="center" valign="top">
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-🎨 Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4" alt="Frontend Technologies">
 
 </td>
 <td width="33%" align="center" valign="top">
 
-⚙️ Backend & Database
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql&perline=4" alt="Backend and Database Technologies">
 
 </td>
 <td width="33%" align="center" valign="top">
 
-🧰 Development Tools
+### 🧰 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&perline=4" alt="Development Tools">
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <img src="cat-laptop.svg" width="180" alt="Animated Developer Cat">
 
-Build • Learn • Improve • Repeat
+**Build • Learn • Improve • Repeat**
 
 </div>
 
 <img src="div.svg" width="100%" height="6" alt="Section Divider">
 
-📊 GitHub Analytics
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- Replace the repo names below with your actual pinned repositories -->
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Ememman/REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ememman&repo=REPO_1&theme=tokyonight&hide_border=true" alt="Project 1">
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Ememman/REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ememman&repo=REPO_2&theme=tokyonight&hide_border=true" alt="Project 2">
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Ememman/REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ememman&repo=REPO_3&theme=tokyonight&hide_border=true" alt="Project 3">
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Ememman/REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ememman&repo=REPO_4&theme=tokyonight&hide_border=true" alt="Project 4">
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="div.svg" width="100%" height="6" alt="Section Divider">
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -124,7 +184,7 @@ Build • Learn • Improve • Repeat
 
 <img src="div.svg" width="100%" height="6" alt="Section Divider">
 
-🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -134,27 +194,74 @@ Build • Learn • Improve • Repeat
 
 <img src="cat-laptop.svg" width="140" alt="Cat Coding">
 
-Commit • Push • Repeat
+**Commit • Push • Repeat**
 
 </div>
 
 <img src="div.svg" width="100%" height="6" alt="Section Divider">
 
-🐍 Contribution Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+<img src="https://github-profile-trophy.vercel.app/?username=Ememman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies">
 
 </div>
 
 <img src="div.svg" width="100%" height="6" alt="Section Divider">
 
-🤝 Let's Connect
+## 📈 Activity Graph
 
 <div align="center">
 
-<a href="https://github.com/Ememman"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ememman&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Activity Graph">
+
+</div>
+
+<img src="div.svg" width="100%" height="6" alt="Section Divider">
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Ememman/Ememman/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
+
+<img src="div.svg" width="100%" height="6" alt="Section Divider">
+
+## 📝 Latest Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Random Dev Quote">
+
+</div>
+
+<img src="div.svg" width="100%" height="6" alt="Section Divider">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Ememman">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<!-- Uncomment and update when ready:
+<a href="https://linkedin.com/in/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://YOUR_PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF7133?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+-->
 
 <br><br>
 
